@@ -1,0 +1,25 @@
+h1{
+    color: gold;
+    text-align: center;
+}
+body{
+    background-color: gray;
+}
+h2{
+    color: rgb(146, 127, 255);
+}
+hr{
+    color: aqua;
+}
+div{
+    border-radius: 5px;
+}
+.filmes{
+    background-color: beige;
+}
+.animes{
+    background-color: rgb(65, 82, 114);
+}
+.para{
+    font-size: larger;
+}
